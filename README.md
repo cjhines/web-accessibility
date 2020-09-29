@@ -42,5 +42,3 @@ WCAG is a set of guidelines and best practices which have been put together by w
 * Robust
 
 While these guidelines supply a framework for thinking about accessibility, there may be places where they're incomplete or even give advice which is outdated.
-
-
