@@ -1,5 +1,7 @@
 # Web Accessibility (A11y)
-Cliff notes of Google's Web Accessibility course on Udacity.
+Cliff notes of Google's Web Accessibility course. You can access the course, and other Web Accessibility resources from Google in the link below.
+
+[Web Accessibility fundamentals by Google](https://developers.google.com/web/fundamentals/accessibility).
 
 ## What is Web Accessibility?
 In short, accessibility is about making sure that the content and websites we create is usable to people with various impairments or abilities. In its narrowest sense, addressing accessibility issues very often improves the user experience for everyone.
