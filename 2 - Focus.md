@@ -24,7 +24,7 @@ Tab order is generally determined by DOM order, meaning you should take care whe
 ## Managing Focus
 Managing focus involves keeping the user's interactive context in sync with the visual representation of the site.
 
-An example of where would be important is a single page web app where navigation changes the page's content. In order to focus these sections, he can ensure their headers are able to be programmatically focused by setting their `tabIndex` to `-1`:
+An example of where this would be important is a single page web app where navigation changes the page's content. In order to focus these sections, he can ensure their headers are able to be programmatically focused by setting their `tabIndex` to `-1`:
 
 ```
 <h2 tabindex=-1>What is Vegemite?</h2>
